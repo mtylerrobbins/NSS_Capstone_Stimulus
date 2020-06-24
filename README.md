@@ -4,7 +4,11 @@ This project means to cover the economic impact of the Covid-19 quarantine in th
 Tableau Presentation: https://public.tableau.com/profile/tyler.robbins#!/vizhome/Capstone_15920838161380/CapstoneCARESPPP
 
 Sources:
+
 John Hopkins University Covid-19 Data: https://github.com/CSSEGISandData/COVID-19
+
 Paycheck Protection Program Public records: https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program 
+
 S&P 500 data: https://us.spindices.com/indices/equity/sp-500#overview
+
 US BLS wage and employment data: https://www.bls.gov/iag/home.htm
